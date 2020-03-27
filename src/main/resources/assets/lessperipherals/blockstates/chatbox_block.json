@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "lessperipherals:chatbox_block" }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "#N#",
+    "NRN",
+    "#N#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone"
+    },
+    "N": {
+      "item": "minecraft:note_block"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+
+  "result":
+  {
+    "item": "lessperipherals:chatbox_block",
+    "count": 1
+  }
+}

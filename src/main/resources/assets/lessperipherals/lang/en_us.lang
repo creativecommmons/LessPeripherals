@@ -1,0 +1,8 @@
+# ITEMS
+# item.chatbox.name=Chatbox Item
+
+# BLOCKS
+tile.chatbox_block.name=Chatbox
+
+# CREATIVE TAB
+itemGroup.lessperipherals=LessPeripherals
